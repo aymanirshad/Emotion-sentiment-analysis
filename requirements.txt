@@ -1,0 +1,11 @@
+torch>=2.0
+transformers>=4.40
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+kagglehub
+sentencepiece
+iterative-stratification
+jupyter
